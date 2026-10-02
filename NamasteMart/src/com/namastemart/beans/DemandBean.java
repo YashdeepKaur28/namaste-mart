@@ -1,0 +1,45 @@
+package com.namastemart.beans;
+
+import java.io.Serializable;
+
+@SuppressWarnings("serial")
+public class DemandBean implements Serializable {
+
+public String userName;
+public String prodId;
+public int demandQty;
+
+public DemandBean() {
+}
+
+public DemandBean(String userName, String prodId, int demandQty) {
+super();
+this.userName=userName;
+this.prodId=prodId;
+this.demandQty=demandQty;
+}
+
+public String getUserName() {
+return userName;
+}
+
+public void setUserName(String userName) {
+this.userName=userName;
+}
+
+public String getProdId() {
+return prodId;
+}
+
+public void setProdid(String prodId) {
+this.prodId=prodId;
+}
+
+public int getDemandQty() {
+return demandQty;
+}
+
+public void setDemandQty(int demandQty) {
+this.demandQty=demandQty;
+}
+}
