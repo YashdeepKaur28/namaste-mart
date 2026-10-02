@@ -4,6 +4,10 @@ A **production-style e-commerce web application** built with **Java Servlets, JS
 
 
 ## 📸 Preview
+<img width="1913" height="960" alt="image" src="https://github.com/user-attachments/assets/de58f6bd-ed6f-470f-9d51-7e106d4ca6e8" />
+<img width="1917" height="975" alt="image" src="https://github.com/user-attachments/assets/04049b67-397e-4c1d-a195-4b7c1b72b1e5" />
+<img width="1906" height="962" alt="image" src="https://github.com/user-attachments/assets/4d06e14e-04df-4997-bffc-c6a86271a35b" />
+<img width="1898" height="965" alt="image" src="https://github.com/user-attachments/assets/0e7d3d28-fc06-43e9-9447-804bb18faac6" />
 
 
 ## 📖 Overview
